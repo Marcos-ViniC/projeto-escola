@@ -1,6 +1,6 @@
 # Projeto Escola - Sistema de Administração de Biblioteca e Turmas
 
-## 🏫 Objetivo
+## 🎓 Objetivo
 Este projeto tem como objetivo criar um **sistema de administração de uma escola**, com controle de:  
 - Turmas  
 - Alunos  
