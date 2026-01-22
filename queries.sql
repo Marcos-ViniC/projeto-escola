@@ -13,6 +13,7 @@ FROM Emprestimos e
 JOIN Alunos a ON e.aluno_id = a.id_aluno
 JOIN Biblioteca b ON e.livro_id = b.id_livro;
 
+
 -- Livros mais emprestados
 SELECT b.titulo, COUNT(*) AS vezes_emprestado
 FROM Emprestimos e
